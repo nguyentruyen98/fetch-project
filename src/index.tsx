@@ -1,5 +1,6 @@
 import './index.scss';
 import './styles/main.scss';
+import './assets/fonts/stylesheet.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';

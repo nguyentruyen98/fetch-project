@@ -1,0 +1,67 @@
+@import 'styles/_variables';
+
+.custom-text {
+  font-family: 'Hellix', sans-serif;
+}
+.header-1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+  color: $grey-01;
+}
+.header-3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40px;
+  color: $white-color;
+}
+.paragraph-1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.005em;
+  color: $grey-04;
+}
+.paragraph-3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: $grey-05;
+}
+.title-1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: $grey-05;
+}
+.title-2 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: $grey-03;
+}
+.title-3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: $grey-05;
+}
+.blue-dark {
+  color: $blue-dark;
+}
+.white {
+  color: $white-color;
+}
+.grey-1 {
+  color: $grey-01;
+}
+.center {
+  text-align: center;
+}

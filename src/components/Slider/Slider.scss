@@ -1,0 +1,17 @@
+.slider {
+  .swiper {
+    .swiper-wrapper {
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 48px;
+      .swiper-slide {
+        margin-left: 24px;
+        height: unset;
+        flex: 1;
+        &:last-child {
+          margin-right: 24px;
+        }
+      }
+    }
+  }
+}
